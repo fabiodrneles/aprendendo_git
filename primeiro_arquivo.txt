@@ -4,8 +4,6 @@ Listo aqui um resumo sobre comandos, funcionamento e alguns passos de git para r
 
 https://git-scm.com/download
 
-## Uma vez instalado no terminal
-
 #RELAÇÃO DE COMANDOS QUE VOCÊ PRECISA SABER
 
 git init // Inicia a linha do tempo
