@@ -1,10 +1,10 @@
 Listo aqui um resumo sobre comandos, funcionamento e alguns passos de git para reforçar a aprendizagem sobre versionamento.
 
-##Para instalar o GIT na sua máquina:
+## Para instalar o GIT na sua máquina:
 
 https://git-scm.com/download
 
-##Uma vez instalado no terminal
+## Uma vez instalado no terminal
 
 #RELAÇÃO DE COMANDOS QUE VOCÊ PRECISA SABER
 
