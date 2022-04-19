@@ -1,5 +1,5 @@
 # Controle de versão com Git
-## Atividade de aprendizado em Git
+## Atividade para aprendizado em Git
 
 ![hero](https://user-images.githubusercontent.com/42509240/164092139-8f49a76e-170a-47a0-96f1-7c5f7db9715e.svg)
 
